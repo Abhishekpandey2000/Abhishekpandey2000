@@ -23,7 +23,7 @@
 
 <h2 align="left">
     <img src="https://raw.githubusercontent.com/sohal619/sohal619/main/info.gif" width=30 height=30 align='left' style="padding-right: 10px;">
-    About me:
+     About me:
 </h2>
 
 
@@ -41,7 +41,7 @@
 
 <h2 align="left">
     <img src="https://raw.githubusercontent.com/sohal619/sohal619/main/connect.gif" width=30 height=30 align='left' style="padding-right: 10px;">
-    Connect with me:
+     Connect with me:
 </h2>
 
 
@@ -52,7 +52,7 @@
 	<a href="https://www.hackerrank.com/@abhip29292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhip29292" height="40" width="40" /></a>
 </p>
 
-<h2><img src="https://raw.githubusercontent.com/sohal619/sohal619/main/skills.gif" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
+<h2><img src="https://raw.githubusercontent.com/sohal619/sohal619/main/skills.gif" width=30 height=30 align='left' style="padding-right: 10px;"> Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
@@ -82,5 +82,5 @@
 <br>
 <h2>
 
-<h2><img src="https://raw.githubusercontent.com/sohal619/sohal619/main/stats.gif" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
+<h2><img src="https://raw.githubusercontent.com/sohal619/sohal619/main/stats.gif" width=30 height=30 align='left' style="padding-right: 10px;"> Github Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekpandey2000&hide_border=false"%22%20alt=%22"Abhishekpandey2000"%22%20/></p>
