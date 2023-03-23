@@ -5,10 +5,7 @@
 <br>
 <br>
 
-<p>
-    <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100"         height="100" align='left'>
-    <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100"         height="100" align='right'>
-</p>
+
 
 <h1 align="center">Hi <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width=30 height=30>, I'm Abhishek.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
