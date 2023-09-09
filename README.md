@@ -32,7 +32,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jbSXG-j4t6UD9l2gwUIgiYn3pkR2N2D3/view?usp=share_link](https://drive.google.com/file/d/1jbSXG-j4t6UD9l2gwUIgiYn3pkR2N2D3/view?usp=share_link)
 
-- ⚡ Fun fact **I am from commerce background but switched my career to data analytics.**
+- ⚡ Fun fact **I transitioned from a commerce background to dive into the world of data analytics 📈✨. Currently, I'm thriving as an IT Project Coordinator 🚀, but my eyes are set on a data role 📊🌟.**
 
 <br>
 
@@ -43,11 +43,20 @@
 
 
 <p align="center">
-	<a href="https://linkedin.com/in/abhishek-pandey-a6085b157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandey-a6085b157" height="40" width="40" /></a>
-	<a href="https://fb.com/abhishekpandey1683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekpandey1683" height="40" width="40" /></a>
-	<a href="https://instagram.com/abhishekpandey_.ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekpandey_.ap" height="40" width="40" /></a>
-	<a href="https://www.hackerrank.com/abhip29292?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhip29292" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/abhishek-pandey-a6085b157" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandey-a6085b157" height="40" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://fb.com/abhishekpandey1683" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekpandey1683" height="40" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://instagram.com/abhishekpandey_.ap" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekpandey_.ap" height="40" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://www.hackerrank.com/abhip29292?hr_r=1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhip29292" height="40" width="40" style="margin-right: 10px;" />
+    </a>
 </p>
+
 
 <h2><img src="https://raw.githubusercontent.com/sohal619/sohal619/main/skills.gif" width=30 height=30 align='left' style="padding-right: 10px;"> Languages and Tools:</h2>
 <p align="center"> 
