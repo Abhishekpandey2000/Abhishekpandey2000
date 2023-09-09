@@ -24,13 +24,11 @@
 </h2>
 
 
-- 🔭 I’m currently learning Data Analytics **at Masai School**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently learning Exploring **Data Analysis**
 
 - 📫 How to reach me **abhip29292@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jbSXG-j4t6UD9l2gwUIgiYn3pkR2N2D3/view?usp=share_link](https://drive.google.com/file/d/1jbSXG-j4t6UD9l2gwUIgiYn3pkR2N2D3/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Q3Ihb6Ig1oG-GveInidmho3AEOKreagD/view?usp=sharing)
 
 - ⚡ Fun fact **I transitioned from a commerce background to dive into the world of data analytics 📈✨. Currently, I'm thriving as an IT Project Coordinator 🚀, but my eyes are set on a data role 📊🌟.**
 
