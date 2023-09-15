@@ -1,5 +1,5 @@
 <a align= "center" href='https://www.linkedin.com/in/abhishek-pandey-a6085b157/'>
-    <img src='https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966'>
+    <img src='https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97' >
 </a>
 
 <br>
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width=30 height=30>, I'm Abhishek.</h1>
-<h3 align="center">An Aspiring Data Analyst!</h3>
+<h3 align="center">Data Aspirant!</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abhishekpandey2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandey2000" /> 
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src='https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif' align='right' width=400 height=250>
+<img src='https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif' align='right' width=400 height=280>
 
 <h2 align="left">
     <img src="https://raw.githubusercontent.com/sohal619/sohal619/main/info.gif" width=30 height=30 align='left' style="padding-right: 10px;">
