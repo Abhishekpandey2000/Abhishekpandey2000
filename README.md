@@ -1,5 +1,5 @@
 <a align= "center" href='https://www.linkedin.com/in/abhishek-pandey-a6085b157/'>
-    <img src='https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97' width = 2000 height = 400>
+    <img src='https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97' width = 2000 height = 350>
 </a>
 
 <br>
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width=30 height=30>, I'm Abhishek.</h1>
-<h3 align="center">Data Aspirant!</h3>
+<h3 align="center">Data Aspirant !!</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abhishekpandey2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandey2000" /> 
