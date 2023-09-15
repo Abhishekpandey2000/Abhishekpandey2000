@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Q3Ihb6Ig1oG-GveInidmho3AEOKreagD/view?usp=sharing)
 
-- ⚡ Fun fact **I transitioned from a commerce background to dive into the world of data analytics 📈✨. Currently, I'm thriving as an IT Project Coordinator 🚀, but my eyes are set on a data role 📊🌟.**
+- ⚡ Fun fact **I transitioned from a commerce background to dive into the world of data analytics 📈✨. Currently, Thriving as an IT Project Coordinator 🚀, but my eyes are set on a data role 📊🌟.**
 
 <br>
 
