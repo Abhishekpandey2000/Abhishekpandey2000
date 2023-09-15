@@ -1,5 +1,5 @@
 <a align= "center" href='https://www.linkedin.com/in/abhishek-pandey-a6085b157/'>
-    <img src='https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97' >
+    <img src='https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97' width = 2000 height = 400>
 </a>
 
 <br>
